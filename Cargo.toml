@@ -13,7 +13,7 @@ simple_logger = "1.7.0"
 num = "0.3.0"
 log = "0.4.11"
 memoffset = "0.5.5"
-cgmath = "0.17.0"
+cgmath = "0.18.0"
 
 [features]
 default = ["wayland"]
