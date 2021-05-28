@@ -12,7 +12,7 @@ winit = "0.22.2"
 simple_logger = "1.7.0"
 num = "0.3.0"
 log = "0.4.11"
-memoffset = "0.5.5"
+memoffset = "0.6.4"
 cgmath = "0.17.0"
 
 [features]
